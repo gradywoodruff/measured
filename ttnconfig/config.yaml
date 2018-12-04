@@ -1,0 +1,9 @@
+color: '#EBA3AF'
+db: trackthenews.db
+font: NotoSerif-Regular.ttf
+twitter:
+  api_key: mK5kP342hRSySbumtjK0IaKzU
+  api_secret: AbUlZ9jk9Y9DpdvBo8j8MFvtNf6aZTkgUxD9A5qICEy9zHfUeb
+  oauth_secret: 8rXlwSqry0SPiowYyOrHxKjLwpEcYK8R7gyDqEuCyP2c1
+  oauth_token: 1069812480711503872-e58RznMnTSjpFdCH05RlemNjNdyR1u
+user-agent: measured.news / powered by trackthenews (a project of freedom.press)

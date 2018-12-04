@@ -1,0 +1,20 @@
+[
+    {
+        "url": "https://pitchfork.com/rss/news/",
+        "outlet": "Pitchfork",
+        "delicateURLs": false,
+        "redirectLinks": false
+    },
+    {
+        "url": "https://pitchfork.com/rss/reviews/best/tracks/",
+        "outlet": "Pitchfork: Best Tracks",
+        "delicateURLs": false,
+        "redirectLinks": false
+    },
+    {
+        "url": "https://www.allaccess.com/feed/net-news/format/alternative.rss",
+        "outlet": "All Access",
+        "delicateURLs": false,
+        "redirectLinks": false
+    }
+]
